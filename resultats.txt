@@ -1,0 +1,28 @@
+coordonnées VILLE 1 
+
+coordonnées Cartesiens : (1332294.7107716056;-4636661.305633593;4161250.2616990223) 
+coordonnées Cylindriques : (4824275.827469841;-1.2909950022254395;4161250.2616990223) 
+coordonnées Spheriques : (6371000.0;49.220103;-73.968565) 
+
+
+coordonnées VILLE 2 
+
+coordonnées Cartesiens : (4187455.2448988794;170625.70176826854;4798515.024657624) 
+coordonnées Cylindriques : (4190930.034984484;0.04072434339543685;4798515.024657624) 
+coordonnées Spheriques : (6371000.0;41.133333;2.333333) 
+
+
+coordonnées VILLE 3 
+
+coordonnées Cartesiens : (2220352.692132868;-4470403.274702924;-3959187.9829156506) 
+coordonnées Cylindriques : (4991439.8239322;-1.1098095364158735;-3959187.9829156506) 
+coordonnées Spheriques : (6371000.0;128.42129549999999;-63.587402499999996) 
+
+
+latence V1-V2 (Paris-N.Y.C) sat = 0.04027487190539577 s 
+latence V1-V2 (Paris-N.Y.C) fibr = 0.030864337230707896 s 
+dist V1-V2 (Paris-N.Y.C) = 6172.87 km 
+
+latence V1-V3 (Paris-Buenos aire) sat = 0.053362955903668394 s 
+latence V1-V3 (Paris-Buenos aire) fibr = 0.042518000406227274 s 
+dist V1-V3 (Paris-Buenos aire) = 8503.6 km
